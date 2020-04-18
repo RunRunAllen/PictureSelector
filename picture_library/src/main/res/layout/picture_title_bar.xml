@@ -40,7 +40,8 @@
         android:padding="10dp"
         android:text="@string/picture_cancel"
         android:textColor="?picture.right.textColor"
-        android:textSize="14sp" />
+        android:textSize="14sp"
+        android:visibility="gone" />
 
     <ImageView
         android:id="@+id/picture_left_back"
